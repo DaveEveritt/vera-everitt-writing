@@ -6,4 +6,4 @@ This collection of [my mother’s many writings](https://daveeveritt.github.io/v
 
 ## Index
 
-- [Human Life](human-life/)
+- [Human Life](vera-everitt-writing/human-life/)
