@@ -8,3 +8,4 @@ This collection of [my mother’s many writings](https://daveeveritt.github.io/v
 
 - [Human Life](/human-life/)
 - [Trip to Poland](/trip-to-poland/) (Auschwitz and Birkenau)
+- [Letter to Friends](/letter-to-friends/)
