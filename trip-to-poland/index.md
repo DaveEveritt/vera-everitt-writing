@@ -1,6 +1,11 @@
 # Auschwitz and Birkenau (entitled “Trip to Poland”)
 
-Background: Vera and Bill Everitt became friends with Madame Pecan, who survived a concentration camp in WW2, and her granddaughter Marianne, who wanted to take the trip to the place her granmdmother was held.
+<figure style="width: 90%; margin: 1em auto;">
+  <img src="images/madame-pecan.jpg" alt="A group of people around a table">
+  <figcaption>L-R: Madame Pecan, Vera Everitt, Bill Everitt, Marianne</figcaption>
+</figure>
+
+Background: Vera and Bill Everitt became friends with Madame Pecan, who lived in France and survived a concentration camp in WW2, and her granddaughter Marianne, who wanted to take the trip to the place her granmdmother was held.
 
 ## 29/05/1998
 
