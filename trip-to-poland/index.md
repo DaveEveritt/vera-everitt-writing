@@ -1,7 +1,7 @@
 # Auschwitz and Birkenau (entitled “Trip to Poland”)
 
 <figure style="width: 90%; margin: 1em auto;">
-  <img src="images/madame-pecan.jpg" alt="A group of people around a table">
+  <img src="../images/madame-pecan.jpg" alt="A group of people around a table">
   <figcaption>L-R: Madame Pecan, Vera Everitt, Bill Everitt, Marianne</figcaption>
 </figure>
 
