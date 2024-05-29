@@ -6,5 +6,5 @@ Vera also participated in an originally North Indian Hindu/Sikh religious moveme
 
 The writing here is in the form of short notes and pieces, written spontaneously in a lined exercise book.
 
-- [The Rays](spiritual-thinking/the-rays/)
-- [Visionary Observations](spiritual-thinking/visionary-observations/)
+- [The Rays](the-rays/)
+- [Visionary Observations](visionary-observations/)
