@@ -15,7 +15,7 @@ Alzheimer’s gradually began to set in after these writings, and although she e
 - [Trip to Poland](trip-to-poland/) (Auschwitz and Birkenau)
 - [Letter to Friends](letter-to-friends/)
 
-### [Spiritual Thinking](spiritual-thinking/)
+### [Spiritual Thinking (introduction)](spiritual-thinking/)
 
 - [The Rays](spiritual-thinking/the-rays/)
 - [Visionary Observations](spiritual-thinking/visionary-observations/)
