@@ -5,7 +5,9 @@
   <figcaption>Born: Vera May Hill, London 1924, died: Wigston 2023</figcaption>
 </figure>
 
-This collection of [my mother’s various writings](https://daveeveritt.github.io/vera-everitt-writing/) covers many topics. This is just a start. Dates aren’t always given, and the writing style is retained as is (the very few obvious errors are corrected).
+This collection of [my mother’s writing](https://daveeveritt.github.io/vera-everitt-writing/) covers many topics and is just a start. Dates aren’t always given, and the writing style is retained as is (the very few obvious errors are corrected). She moved to Swansea as a child, served as a WREN in World War II (her account of that time is in progress) and lived there until she married Bill Everitt (his memoirs are also in progress) and moved to Leicester. She was mother to myself (Dave) and my brother Chris. She was a keen tennis player and a lover of the outdoor life in general. In later life she developed an interest in broad spiritual questions—the search for meaning and inner peace—drawing on roots a little deeper than much of the current *New Age* movement.
+
+Alzheimer’s gradually began to set in after these writings, and although she eventually became unable to see or recognise anyone, during the earlier stages she did enjoy listening to her “Camping Diaries” (available on another website, thanks to my wife Fania for typing them up from several folders and laboriously scanning all the attached images). Vera died after a long period of the more severe stages of the condition. The last thing to go was her deep and lifelong love of singing.
 
 ## Index
 
