@@ -12,3 +12,8 @@ This collection of [my mother’s various writings](https://daveeveritt.github.i
 - [Human Life](human-life/)
 - [Trip to Poland](trip-to-poland/) (Auschwitz and Birkenau)
 - [Letter to Friends](letter-to-friends/)
+
+### [Spiritual Thinking](spiritual-thinking/)
+
+- [The Rays](spiritual-thinking/the-rays/)
+- [Visionary Observations](spiritual-thinking/visionary-observations/)
