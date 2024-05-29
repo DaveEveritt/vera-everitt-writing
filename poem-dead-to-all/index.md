@@ -1,6 +1,6 @@
-<figure style="width: 92%; margin: 1em auto;">
+<figure style="width: 92%; margin: 1em auto; border-bottom: 1px solid gray; margin-bottom: 1em">
   <img src="../images/dead-to-all.png" alt="Three hand-written pages in a wobbly script">
-  <figcaption>The original pages—Vera’s last writing</figcaption>
+  <figcaption style="text-align: center;">The original pages—Vera’s last writing</figcaption>
 </figure>
 
 I am dead to all but you  
