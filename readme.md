@@ -28,6 +28,7 @@ from family friends who knew her:
 ### Spiritual Thinking
 
 - [Introduction](spiritual-thinking/)
+- [Close to the Earth](spiritual-thinking/close-to-the-earth/)
 - [The Rays](spiritual-thinking/the-rays/)
 - [Visionary Observations](spiritual-thinking/visionary-observations/)
 
