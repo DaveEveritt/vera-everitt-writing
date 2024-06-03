@@ -9,6 +9,16 @@ This collection of [my mother’s writing](https://daveeveritt.github.io/vera-ev
 
 Alzheimer’s gradually began to set in after these writings, and although she eventually became unable to see or recognise anyone, during the earlier stages she did enjoy listening to her “Camping Diaries” (available on another website, thanks to my wife Fania for typing them up from several folders and laboriously scanning all the attached images). Vera died after a long period of the more severe stages of the condition. Her last piece of writing is a revealing and heartbreaking poem “[Dead to All](poem-dead-to-all/)”. The final recognisable part of her personality to go was her deep and lifelong love of singing.
 
+from family friends who knew her:
+
+> We have fond memories of Vera, her good humour, her enthusiasm for life and her generous sprint.
+
+<!-- Paul Foster -->
+
+> I remember meeting her years—well, decades—ago and though I never got to know her well I was always struck by her strong character, phenomenal energy, and her openness to new ideas. 
+
+<!-- Alison Love -->
+
 ## Index
 
 - [Human Life](human-life/)
