@@ -1,5 +1,9 @@
 # Visionary Observations
 
+THese miscellaneous notes have been added as they were found.
+
+---
+
 ## What is a Revelation?
 
 Is it true to say that a revelation is merely a mind expander? Everyone who has experienced a revelation appears to have the same ‘symptoms’ i.e. a feeling of oneness with the world, a ‘flash’ of intuition—very often accompanied by light within one’s head. A feeling of ‘knowledge’ of knowing the meaning of the universe. Could this be that for these people another part of the brain has commenced to function, and that another facet of Mind has been brought into play. It cannot be the intellect as it affects the poorly–trained mind as much as the highly–educated. So perhaps this is evolution—not of the body but of the mind—the brain being the body and the mind being the driving force.
@@ -16,8 +20,8 @@ All life is one—not lots of separate lives, driving into dead ends, but one li
 
 ## Essence of the Universe
 
-The splendor which lies eternally behind the mists of human thought, is the essence of the universe; it is ever waiting to spill its joy into us and brim us with its fiery sweetness, its tonic force. Neither human frailties, nor fortune, nor earthly joys could contribute to it one gasp of delight nor take from it a fraction of its platinum worth. It was the stuff of Spirit, the light of the world … and there for everyone’s taking.
+The splendour which lies eternally behind the mists of human thought, is the essence of the universe; it is ever waiting to spill its joy into us and brim us with its fiery sweetness, its tonic force. Neither human frailties, nor fortune, nor earthly joys could contribute to it one gasp of delight nor take from it a fraction of its platinum worth. It was the stuff of Spirit, the light of the world … and there for everyone’s taking.
 
 ## The Continuity of Life
 
-Only when the continuity of life could be shown to be the automatic effect of known causes which are eternally in operation—just as a balloon rises if it is filled with gas—only then will the thoughtful, the skeptical, the intellectual, dare to include it in  their understanding of life. Only then will the heart of humanity be comforted.
+Only when the continuity of life could be shown to be the automatic effect of known causes which are eternally in operation—just as a balloon rises if it is filled with gas—only then will the thoughtful, the sceptical, the intellectual, dare to include it in  their understanding of life. Only then will the heart of humanity be comforted.
