@@ -21,6 +21,7 @@ from family friends who knew her:
 
 ## Index
 
+- [A Day in The Life of a WREN](day-as-a-wren/) (1943, age about 19-20)
 - [Human Life](human-life/)
 - [Trip to Poland](trip-to-poland/) (Auschwitz and Birkenau)
 - [Letter to Friends](letter-to-friends/)
