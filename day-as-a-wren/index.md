@@ -1,8 +1,14 @@
 # A Day in The Life of a WREN
 
-Vera added: L/WREN to be exact. Circa 1943
+Vera added: “L/WREN to be exact. Circa 1943” (Leading WREN)
 
 [Women’s Royal Naval Service](https://www.forces.net/news/wrens-who-were-they-and-what-did-they-do) (Vera would have been aged 19-20)
+
+<figure style="width: 80%; margin: 1em auto;">
+  <img src="../images/vera-as-wren.png" alt="A portrait of Vera Everitt when a WREN">
+  <figcaption>Portrait of Vera as a WREN (by H E Smith, Portsmouth)</figcaption>
+</figure>
+
 
 Awakened from deep sleep at 0700, by Wren from cabin going on duty, who yells in ear “Hey, it’s 7 o’clock”, grunt, and turn over – half-an-hour later, suddenly woken with ‘getting-up!’ sounds outside — splashing, running, shouting, then silence — suddenly realise lateness of hour, spring (or rather crawl) out of bed — has been raining during night, so have to paddle about trying to miss pools on floor, call other occupant of cabin, Elsie, and go and wash — turn hot tap on, steaming hot water comes out, put plug in, and turn cold tap on, nothing happens, so stand and wait, still nothing happens, realise have forgotten towel, go back to cabin for it, come out and find cold tap gushing away, turn off quickly but find that it has made water in basin cold — turn hot tap on, peculiar noises issue from tap’s innards, but no water. Wash in cold water in despair.
 
