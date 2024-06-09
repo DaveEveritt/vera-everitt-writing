@@ -1,8 +1,6 @@
 # A Day in The Life of a WREN
 
-Vera added: “L/WREN to be exact. Circa 1943” (Leading WREN)
-
-[Women’s Royal Naval Service](https://www.forces.net/news/wrens-who-were-they-and-what-did-they-do) (Vera would have been aged 19-20)
+Vera added: “L/WREN to be exact. Circa 1943” (Leading WREN — [Women’s Royal Naval Service](https://www.forces.net/news/wrens-who-were-they-and-what-did-they-do)). Vera would have been aged 19-20.
 
 <figure style="width: 80%; margin: 1em auto;">
   <img src="../images/vera-as-wren.png" alt="A portrait of Vera Everitt when a WREN">
