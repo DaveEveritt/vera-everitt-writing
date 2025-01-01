@@ -1,6 +1,6 @@
 - [Spiritual Thinking](../)
   - [Human Life](../human-life/)
-  - [Close to the Earth](../close-to-the-earth/)
+  - **Close to the Earth**
   - [The Rays](../the-rays/)
   - [Visionary Observations](../visionary-observations/)
 

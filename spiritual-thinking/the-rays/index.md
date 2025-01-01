@@ -1,7 +1,7 @@
 - [Spiritual Thinking](../)
   - [Human Life](../human-life/)
   - [Close to the Earth](../close-to-the-earth/)
-  - [The Rays](../the-rays/)
+  - **The Rays**
   - [Visionary Observations](../visionary-observations/)
 
 # The Rays

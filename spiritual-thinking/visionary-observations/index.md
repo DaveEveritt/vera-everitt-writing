@@ -2,7 +2,7 @@
   - [Human Life](../human-life/)
   - [Close to the Earth](../close-to-the-earth/)
   - [The Rays](../the-rays/)
-  - [Visionary Observations](../visionary-observations/)
+  - **Visionary Observations**
 
 # Visionary Observations
 
