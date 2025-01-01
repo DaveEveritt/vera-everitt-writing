@@ -1,6 +1,11 @@
+- [Human Life](../human-life/)
+- [Close to the Earth](../close-to-the-earth/)
+- [The Rays](../the-rays/)
+- [Visionary Observations](../visionary-observations/)
+
 # Visionary Observations
 
-THese miscellaneous notes have been added as they were found.
+Miscellaneous notes, added as they are found.
 
 ---
 
