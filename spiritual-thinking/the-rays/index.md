@@ -1,3 +1,9 @@
+- [Spiritual Thinking](../)
+  - [Human Life](../human-life/)
+  - [Close to the Earth](../close-to-the-earth/)
+  - [The Rays](../the-rays/)
+  - [Visionary Observations](../visionary-observations/)
+
 # The Rays
 
 (NOTE: “the Rays”—typically seven in number—are taken from the Theosophically-inspired literature Vera used to read)

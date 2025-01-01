@@ -1,3 +1,9 @@
+- [Spiritual Thinking](../)
+  - [Human Life](../human-life/)
+  - [Close to the Earth](../close-to-the-earth/)
+  - [The Rays](../the-rays/)
+  - [Visionary Observations](../visionary-observations/)
+
 # Close to the Earth
 
 This was written in 1974 at after a DLM festival in Copenhagen, but from the notes it seems Vera had an experience of her own, apart from the then-frantic following of the movement.

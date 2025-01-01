@@ -1,3 +1,9 @@
+- [Spiritual Thinking](../)
+  - [Human Life](../human-life/)
+  - [Close to the Earth](../close-to-the-earth/)
+  - [The Rays](../the-rays/)
+  - [Visionary Observations](../visionary-observations/)
+
 # Human Life
 
 There are many books written on the subject of human life – the “whys” & “wherefores”, and certainly they can instruct, reveal, and generally lay the path to knowledge, but no book can give one total enlightenment – it can “open the door” and this allows the seeker to search for more, there are many doors and many blind alleys.
