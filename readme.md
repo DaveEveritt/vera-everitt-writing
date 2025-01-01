@@ -8,13 +8,13 @@
 ## Index
 
 - [A Day in The Life of a WREN](day-as-a-wren/) (1943, age about 19-20)
-- [Human Life](human-life/)
 - [Trip to Poland](trip-to-poland/) (Auschwitz and Birkenau)
 - [Letter to Friends](letter-to-friends/)
 
 ### Spiritual Thinking
 
 - [Introduction](spiritual-thinking/)
+- [Human Life](spiritual-thinking/human-life/)
 - [Close to the Earth](spiritual-thinking/close-to-the-earth/)
 - [The Rays](spiritual-thinking/the-rays/)
 - [Visionary Observations](spiritual-thinking/visionary-observations/)
