@@ -10,3 +10,9 @@ Vera maintained a close friendship with the author, Jungian therapist and Leices
 Vera also participated in an originally North Indian Hindu/Sikh religious movement drawing on the [Sant Mat](https://en.wikipedia.org/wiki/Contemporary_Sant_Mat_movements) tradition. Founded in 1960, it peaked worldwide in the early 70s and had a presence in the indian community in nearby Leicester. Called [Divine Light Mission](https://newreligiousmovements.org/d/divine-light-mission/) (DLM) its primary message was “in principle all religions are one“ and the path to peace comes from looking within, using specific meditation techniques. By then it had become overly focussed on the [founder](https://en.wikipedia.org/wiki/Hans_Maharaj)’s young son [Prem Rawat](https://en.wikipedia.org/wiki/Prem_Rawat), who first spoke in the UK at Glastonbury Fayre in 1971, attracting people seeking hope after the collapse of 60s counterculture. The movement rapidly mutated and faded in the 70s. For Vera, DLM was a way of learning and exploring meditation, and offered a sympathetic community within which she felt able to explore and share her own inner journey with others. However, DLM was only a temporary part of her much wider range of influences.
 
 The writing here is in the form of short notes and pieces, written spontaneously in a lined exercise book.
+
+<!--
+Links not yet used
+- [Puharich on Uri-Geller](https://logoilibrary.com/wp-content/uploads/2020/10/Uri-A-Journal-of-the-Mystery-of-Uri-Geller.pdf)
+- [National Archives: Everitt](https://www.nationalarchives.gov.uk/search/results?_q=Everitt)
+-->
